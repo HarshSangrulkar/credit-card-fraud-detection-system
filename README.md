@@ -14,6 +14,7 @@ Jupyter Notebook (optional for data exploration)
 
 Dataset:
 The dataset used for this project should contain credit card transactions, labeled as either legitimate or fraudulent. Ensure proper preprocessing and exploration to handle imbalanced classes.
+
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Model Selection:
